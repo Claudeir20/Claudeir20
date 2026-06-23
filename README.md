@@ -63,5 +63,5 @@
 
 ### 📫 Como me encontrar
 
-- LinkedIn: [seu link]
-- Email: seu-email@exemplo.com
+- LinkedIn: [https://www.linkedin.com/in/claudeir-mota-990033263/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByQh8cEfSReGkMF0Ghh5cPg%3D%3D]
+- Email: claudeirmota2@gmail.com
