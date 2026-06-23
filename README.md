@@ -3,7 +3,7 @@
 <h3 align="center">Estudante de Engenharia de Software | Foco em Back-end Java</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7941D&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Foco+em+Back-end+com+Java+%26+Spring+Boot;Aplicando+DDD+e+arquitetura+orientada+a+eventos;Buscando+oportunidade+como+Dev+Java+Junior" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7941D&center=true&vCenter=true&width=750&lines=Estudante+de+Engenharia+de+Software;Foco+em+Back-end+com+Java+%26+Spring+Boot;Aplicando+DDD+e+arquitetura+orientada+a+eventos;Buscando+oportunidade+como+Dev+Java+Junior" />
 </p>
 
 <p align="center">
