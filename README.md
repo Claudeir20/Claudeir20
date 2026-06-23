@@ -3,12 +3,25 @@
 <h3 align="center">Estudante de Engenharia de Software | Foco em Back-end Java</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/claudeir-mota-990033263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
+  <a href="mailto:claudeirmota2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+### 🛠️ Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -25,27 +38,12 @@
 
 ### 🔭 Projeto em destaque
 
-**[credito-ms](https://github.com/SEU-USUARIO/credito-ms)** — Microsserviço de análise de crédito construído com:
+**[credito-ms](https://github.com/Claudeir20/credito-ms)** — Microsserviço de análise de crédito construído com:
 - Java + Spring Boot
 - PostgreSQL + Flyway (migrations)
 - Redis (cache)
 - RabbitMQ (mensageria assíncrona)
 - Princípios de DDD aplicados a um domínio de negócio real
-
----
-
-### 🛠️ Tecnologias e ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
 
 ---
 
@@ -63,5 +61,5 @@
 
 ### 📫 Como me encontrar
 
-- LinkedIn: [https://www.linkedin.com/in/claudeir-mota-990033263/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByQh8cEfSReGkMF0Ghh5cPg%3D%3D]
+- LinkedIn: [claudeir-mota](https://www.linkedin.com/in/claudeir-mota-990033263/)
 - Email: claudeirmota2@gmail.com
